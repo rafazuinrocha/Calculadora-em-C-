@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frmCalculadora2", "frmCalculadora2\frmCalculadora2.csproj", "{77E42EB2-CFC4-474B-806F-1EDBE92302E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77E42EB2-CFC4-474B-806F-1EDBE92302E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E42EB2-CFC4-474B-806F-1EDBE92302E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E42EB2-CFC4-474B-806F-1EDBE92302E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E42EB2-CFC4-474B-806F-1EDBE92302E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
